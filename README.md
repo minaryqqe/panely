@@ -4,10 +4,7 @@
 
 ### Персональный трекер манги, манхвы и манхуа
 
-[![PHP](https://img.shields.io/badge/PHP-%3E%3D5.6-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Yii2](https://img.shields.io/badge/Yii2-Framework-00AEEF?style=for-the-badge)](https://www.yiiframework.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-4-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+
 
 *Веб-приложение для отслеживания прочитанной манги. Ведите личную коллекцию тайтлов, отмечайте прогресс по томам и управляйте статусами чтения.*
 
